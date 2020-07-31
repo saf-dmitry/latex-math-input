@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: scriptstyle
+# key: &ss
+# group: Math – Font & Style
+# condition: (yas-texmathp)
+# --
+\scriptstyle $0

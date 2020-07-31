@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: overbrace
+# key: obr
+# group: Math – Accents
+# condition: (yas-texmathp)
+# --
+\overbrace{$0}

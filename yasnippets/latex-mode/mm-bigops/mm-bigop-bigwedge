@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: bigwedge
+# key: bwedge
+# group: Math – Big Operators
+# condition: (yas-texmathp)
+# --
+\bigwedge $0

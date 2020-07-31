@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: equiv
+# key: -=
+# group: Math – Relations
+# condition: (yas-texmathp)
+# --
+\equiv $0

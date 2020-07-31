@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: varnothing
+# key: o/
+# group: Math – Symbols
+# condition: (yas-texmathp)
+# --
+\varnothing$0

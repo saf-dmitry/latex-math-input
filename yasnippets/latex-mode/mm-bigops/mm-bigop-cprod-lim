@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cprod lim
+# key: cprod:
+# group: Math – Big Operators
+# condition: (yas-texmathp)
+# --
+\cprod_{$1}^{$0}

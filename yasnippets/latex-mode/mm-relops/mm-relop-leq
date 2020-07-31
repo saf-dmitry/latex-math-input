@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: leq
+# key: <=
+# group: Math – Relations
+# condition: (yas-texmathp)
+# --
+\leq $0

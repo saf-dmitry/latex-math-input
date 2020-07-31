@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: kappa
+# key: .k
+# group: Math – Greek Letters
+# condition: (yas-texmathp)
+# --
+\kappa$0

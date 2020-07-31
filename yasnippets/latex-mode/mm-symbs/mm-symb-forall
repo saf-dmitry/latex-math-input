@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: forall
+# key: AA
+# group: Math – Symbols
+# condition: (yas-texmathp)
+# --
+\forall $0

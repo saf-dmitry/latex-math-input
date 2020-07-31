@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mathit
+# key: &it
+# group: Math – Font & Style
+# condition: (yas-texmathp)
+# --
+\mathit{$0}

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ddt
+# key: ddt
+# group: Math – Additions
+# condition: (yas-texmathp)
+# --
+\frac{\partial}{\partial t} $0

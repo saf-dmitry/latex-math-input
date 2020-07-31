@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lim
+# key: lim
+# group: Math – Functions
+# condition: (yas-texmathp)
+# --
+\lim_{$0}

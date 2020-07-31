@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: overleftarrow
+# key: olarr
+# group: Math – Accents
+# condition: (yas-texmathp)
+# --
+\overleftarrow{$0}

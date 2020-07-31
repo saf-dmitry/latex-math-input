@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: varphi
+# key: .ff
+# group: Math – Greek Letters
+# condition: (yas-texmathp)
+# --
+\varphi$0

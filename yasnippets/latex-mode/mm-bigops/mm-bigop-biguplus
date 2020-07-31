@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: biguplus
+# key: U+
+# group: Math – Big Operators
+# condition: (yas-texmathp)
+# --
+\biguplus $0

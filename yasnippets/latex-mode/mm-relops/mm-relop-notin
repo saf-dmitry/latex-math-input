@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: notin
+# key: !in
+# group: Math – Relations
+# condition: (yas-texmathp)
+# --
+\notin $0

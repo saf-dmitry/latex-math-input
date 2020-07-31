@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: overset
+# key: oset
+# group: Math – Layout
+# condition: (yas-texmathp)
+# --
+\overset{$1}{$0}

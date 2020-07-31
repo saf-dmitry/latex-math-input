@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nearrow
+# key: nearr
+# group: Math – Arrows
+# condition: (yas-texmathp)
+# --
+\nearrow$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: uplus
+# key: u+
+# group: Math – Binary Operators
+# condition: (yas-texmathp)
+# --
+\uplus $0

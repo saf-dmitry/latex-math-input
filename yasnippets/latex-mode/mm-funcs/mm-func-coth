@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: coth
+# key: coth
+# group: Math – Functions
+# condition: (yas-texmathp)
+# --
+\coth $0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: vartheta
+# key: .qq
+# group: Math – Greek Letters
+# condition: (yas-texmathp)
+# --
+\vartheta$0

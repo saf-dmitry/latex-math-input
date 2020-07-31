@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: erf
+# key: erf
+# group: Math – Additions
+# condition: (yas-texmathp)
+# --
+\erf $0

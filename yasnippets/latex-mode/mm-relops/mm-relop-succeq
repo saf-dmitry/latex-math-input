@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: succeq
+# key: >-=
+# group: Math – Relations
+# condition: (yas-texmathp)
+# --
+\succeq $0

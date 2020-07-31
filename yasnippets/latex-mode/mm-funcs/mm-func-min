@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: min
+# key: min
+# group: Math – Functions
+# condition: (yas-texmathp)
+# --
+\min $0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: num
+# key: num
+# group: Math – Additions
+# condition: (yas-texmathp)
+# --
+\num{$0}

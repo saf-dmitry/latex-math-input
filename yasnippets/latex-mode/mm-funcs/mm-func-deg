@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: deg
+# key: deg
+# group: Math – Functions
+# condition: (yas-texmathp)
+# --
+\deg $0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ngtr
+# key: !>
+# group: Math – Relations
+# condition: (yas-texmathp)
+# --
+\ngtr $0

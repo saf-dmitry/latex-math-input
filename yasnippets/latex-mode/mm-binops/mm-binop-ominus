@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ominus
+# key: o-
+# group: Math – Binary Operators
+# condition: (yas-texmathp)
+# --
+\ominus $0

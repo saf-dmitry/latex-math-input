@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: floor
+# key: floor
+# group: Math – Delimiters
+# condition: (yas-texmathp)
+# --
+\left\lfloor $0 \right\rfloor

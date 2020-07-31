@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: dquad
+# key: qqq
+# group: Math – Layout
+# condition: (yas-texmathp)
+# --
+\qquad $0

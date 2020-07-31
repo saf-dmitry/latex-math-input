@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: det
+# key: det
+# group: Math – Functions
+# condition: (yas-texmathp)
+# --
+\det $0

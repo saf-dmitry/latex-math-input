@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ce
+# key: ce
+# group: Math – Additions
+# condition: (yas-texmathp)
+# --
+\ce{$0}

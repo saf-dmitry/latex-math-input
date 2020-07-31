@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: alpha
+# key: .a
+# group: Math – Greek Letters
+# condition: (yas-texmathp)
+# --
+\alpha$0

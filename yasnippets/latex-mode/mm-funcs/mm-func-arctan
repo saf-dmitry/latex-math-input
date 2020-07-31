@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: arctan
+# key: arctan
+# group: Math – Functions
+# condition: (yas-texmathp)
+# --
+\arctan $0

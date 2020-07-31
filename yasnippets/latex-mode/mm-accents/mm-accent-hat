@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: hat
+# key: '^
+# group: Math – Accents
+# condition: (yas-texmathp)
+# --
+\hat{$0}

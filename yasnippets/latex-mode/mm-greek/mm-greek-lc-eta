@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: eta
+# key: .h
+# group: Math – Greek Letters
+# condition: (yas-texmathp)
+# --
+\eta$0

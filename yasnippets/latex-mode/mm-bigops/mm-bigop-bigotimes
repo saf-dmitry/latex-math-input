@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: bigotimes
+# key: Ox
+# group: Math – Big Operators
+# condition: (yas-texmathp)
+# --
+\bigotimes $0

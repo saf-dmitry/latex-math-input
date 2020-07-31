@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: xi
+# key: .c
+# group: Math – Greek Letters
+# condition: (yas-texmathp)
+# --
+\xi$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: And
+# key: &&
+# group: Math – Symbols
+# condition: (yas-texmathp)
+# --
+\And $0

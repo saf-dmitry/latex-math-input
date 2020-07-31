@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: to (a)
+# key: to
+# group: Math – Arrows
+# condition: (yas-texmathp)
+# --
+\to $0

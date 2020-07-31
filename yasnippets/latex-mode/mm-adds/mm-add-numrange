@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: numrange
+# key: nrange
+# group: Math – Additions
+# condition: (yas-texmathp)
+# --
+\numrange{$1}{$0}

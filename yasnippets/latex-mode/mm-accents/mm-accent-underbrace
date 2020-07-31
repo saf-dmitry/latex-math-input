@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: underbrace
+# key: ubr
+# group: Math – Accents
+# condition: (yas-texmathp)
+# --
+\underbrace{$0}

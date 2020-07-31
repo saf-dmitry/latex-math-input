@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mho
+# key: mho
+# group: Math – Symbols
+# condition: (yas-texmathp)
+# --
+\mho$0

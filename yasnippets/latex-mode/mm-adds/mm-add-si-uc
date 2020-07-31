@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: SI
+# key: SI
+# group: Math – Additions
+# condition: (yas-texmathp)
+# --
+\SI{$1}{$0}

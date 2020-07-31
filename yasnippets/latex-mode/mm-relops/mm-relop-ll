@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ll
+# key: <<
+# group: Math – Relations
+# condition: (yas-texmathp)
+# --
+\ll $0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: left square bracket
+# key: [
+# group: Math – Delimiters
+# condition: (yas-texmathp)
+# --
+\left[ $0

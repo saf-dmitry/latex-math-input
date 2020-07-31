@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sum
+# key: sum
+# group: Math – Big Operators
+# condition: (yas-texmathp)
+# --
+\sum $0

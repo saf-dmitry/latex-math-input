@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ddots
+# key: ddots
+# group: Math – Symbols
+# condition: (yas-texmathp)
+# --
+\ddots$0

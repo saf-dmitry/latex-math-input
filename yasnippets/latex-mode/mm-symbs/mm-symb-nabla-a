@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nabla (a)
+# key: del
+# group: Math – Symbols
+# condition: (yas-texmathp)
+# --
+\nabla $0

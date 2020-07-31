@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sim
+# key: ~
+# group: Math – Relations
+# condition: (yas-texmathp)
+# --
+\sim $0

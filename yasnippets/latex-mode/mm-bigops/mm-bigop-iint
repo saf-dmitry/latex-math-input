@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: iint
+# key: iint
+# group: Math – Big Operators
+# condition: (yas-texmathp)
+# --
+\iint $0

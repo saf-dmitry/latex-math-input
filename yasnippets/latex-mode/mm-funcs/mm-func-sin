@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sin
+# key: sin
+# group: Math – Functions
+# condition: (yas-texmathp)
+# --
+\sin $0

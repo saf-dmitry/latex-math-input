@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: otimes
+# key: ox
+# group: Math – Binary Operators
+# condition: (yas-texmathp)
+# --
+\otimes $0

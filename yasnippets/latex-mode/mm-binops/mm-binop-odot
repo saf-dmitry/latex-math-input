@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: odot
+# key: o.
+# group: Math – Binary Operators
+# condition: (yas-texmathp)
+# --
+\odot $0

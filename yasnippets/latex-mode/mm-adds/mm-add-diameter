@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: diameter
+# key: dm
+# group: Math – Additions
+# condition: (yas-texmathp)
+# --
+\diameter $0

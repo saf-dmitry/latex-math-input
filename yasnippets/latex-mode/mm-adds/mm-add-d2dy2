@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: d2dy2
+# key: d2dy2
+# group: Math – Additions
+# condition: (yas-texmathp)
+# --
+\frac{\partial^2}{\partial y^2} $0

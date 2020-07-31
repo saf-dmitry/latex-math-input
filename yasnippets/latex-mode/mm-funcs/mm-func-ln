@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ln
+# key: ln
+# group: Math – Functions
+# condition: (yas-texmathp)
+# --
+\ln $0

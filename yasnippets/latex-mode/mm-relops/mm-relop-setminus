@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setminus
+# key: \\
+# group: Math – Relations
+# condition: (yas-texmathp)
+# --
+\setminus $0

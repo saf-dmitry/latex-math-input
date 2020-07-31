@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: zeta
+# key: .z
+# group: Math – Greek Letters
+# condition: (yas-texmathp)
+# --
+\zeta$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: arg
+# key: arg
+# group: Math – Functions
+# condition: (yas-texmathp)
+# --
+\arg $0

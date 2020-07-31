@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: hom
+# key: hom
+# group: Math – Functions
+# condition: (yas-texmathp)
+# --
+\hom $0

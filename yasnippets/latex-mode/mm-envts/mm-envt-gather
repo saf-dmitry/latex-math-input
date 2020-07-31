@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: gather
+# key: :gtr
+# group: Math – Environments
+# --
+\begin{gather}
+ $0
+\end{gather}

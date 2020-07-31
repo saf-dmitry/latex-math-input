@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mathcal
+# key: &cc
+# group: Math – Font & Style
+# condition: (yas-texmathp)
+# --
+\mathcal{$0}

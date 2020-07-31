@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: supseteq
+# key: ssup=
+# group: Math – Relations
+# condition: (yas-texmathp)
+# --
+\supseteq $0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: bigcup lim
+# key: bcup:
+# group: Math – Big Operators
+# condition: (yas-texmathp)
+# --
+\bigcup_{$1}^{$0}

@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: Bmatrix
+# key: :Bmx
+# group: Math – Environments
+# condition: (yas-texmathp)
+# --
+\begin{Bmatrix}
+ $0
+\end{Bmatrix}

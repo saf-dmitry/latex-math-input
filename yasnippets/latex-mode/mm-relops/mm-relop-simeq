@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: simeq
+# key: ~-
+# group: Math – Relations
+# condition: (yas-texmathp)
+# --
+\simeq $0

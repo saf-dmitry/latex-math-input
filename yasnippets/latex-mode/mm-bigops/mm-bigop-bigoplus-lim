@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: bigoplus lim
+# key: O+:
+# group: Math – Big Operators
+# condition: (yas-texmathp)
+# --
+\bigoplus_{$1}^{$0}

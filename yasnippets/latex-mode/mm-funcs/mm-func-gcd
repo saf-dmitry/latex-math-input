@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: gcd
+# key: gcd
+# group: Math – Functions
+# condition: (yas-texmathp)
+# --
+\gcd $0

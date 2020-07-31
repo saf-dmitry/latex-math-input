@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: iint lim
+# key: iint:
+# group: Math – Big Operators
+# condition: (yas-texmathp)
+# --
+\iint_{$1}^{$0}

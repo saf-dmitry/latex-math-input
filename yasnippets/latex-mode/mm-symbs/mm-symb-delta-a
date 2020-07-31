@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Delta (a)
+# key: inc
+# group: Math – Symbols
+# condition: (yas-texmathp)
+# --
+\Delta $0

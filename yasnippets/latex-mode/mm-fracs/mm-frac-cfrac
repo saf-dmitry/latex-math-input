@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cfrac
+# key: //
+# group: Math – Fractions & Binominals
+# condition: (yas-texmathp)
+# --
+\cfrac{$1}{$0}

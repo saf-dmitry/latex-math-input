@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Sigma
+# key: .S
+# group: Math – Greek Letters
+# condition: (yas-texmathp)
+# --
+\Sigma$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tag
+# key: tag
+# group: Math – Miscellaneous
+# condition: (yas-texmathp)
+# --
+\tag{$0}

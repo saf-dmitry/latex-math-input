@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: right parenthesis
+# key: )
+# group: Math – Delimiters
+# condition: (yas-texmathp)
+# --
+\right) $0

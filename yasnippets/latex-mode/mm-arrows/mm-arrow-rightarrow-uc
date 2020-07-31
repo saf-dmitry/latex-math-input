@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Rightarrow
+# key: Rarr
+# group: Math – Arrows
+# condition: (yas-texmathp)
+# --
+\Rightarrow $0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: neg
+# key: neg
+# group: Math – Symbols
+# condition: (yas-texmathp)
+# --
+\neg $0

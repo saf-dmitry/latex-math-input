@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cube root
+# key: rt3
+# group: Math – Roots
+# condition: (yas-texmathp)
+# --
+\sqrt[3]{$0}

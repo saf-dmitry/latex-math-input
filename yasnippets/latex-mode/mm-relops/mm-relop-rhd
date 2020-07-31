@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: rhd
+# key: rhd
+# group: Math – Relations
+# condition: (yas-texmathp)
+# --
+\rhd $0

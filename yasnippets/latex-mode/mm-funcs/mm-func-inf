@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: inf
+# key: inf
+# group: Math – Functions
+# condition: (yas-texmathp)
+# --
+\inf $0

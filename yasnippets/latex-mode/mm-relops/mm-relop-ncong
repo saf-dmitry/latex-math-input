@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ncong
+# key: !~=
+# group: Math – Relations
+# condition: (yas-texmathp)
+# --
+\ncong $0

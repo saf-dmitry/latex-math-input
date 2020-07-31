@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: displaystyle
+# key: &ds
+# group: Math – Font & Style
+# condition: (yas-texmathp)
+# --
+\displaystyle $0

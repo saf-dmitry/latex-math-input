@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: aligned
+# key: :ald
+# group: Math – Environments
+# condition: (yas-texmathp)
+# --
+\begin{aligned}
+ $0
+\end{aligned}

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sqrt (a)
+# key: rt2
+# group: Math – Roots
+# condition: (yas-texmathp)
+# --
+\sqrt{$0}

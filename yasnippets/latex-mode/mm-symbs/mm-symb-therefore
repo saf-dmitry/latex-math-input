@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: therefore
+# key: .:
+# group: Math – Symbols
+# condition: (yas-texmathp)
+# --
+\therefore $0

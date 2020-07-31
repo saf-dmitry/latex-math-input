@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: bigcup
+# key: bcup
+# group: Math – Big Operators
+# condition: (yas-texmathp)
+# --
+\bigcup $0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lambda
+# key: .l
+# group: Math – Greek Letters
+# condition: (yas-texmathp)
+# --
+\lambda$0

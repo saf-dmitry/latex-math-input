@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: aleph
+# key: aleph
+# group: Math – Symbols
+# condition: (yas-texmathp)
+# --
+\aleph$0

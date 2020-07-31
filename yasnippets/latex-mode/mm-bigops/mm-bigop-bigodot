@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: bigodot
+# key: O.
+# group: Math – Big Operators
+# condition: (yas-texmathp)
+# --
+\bigodot $0

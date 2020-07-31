@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ker
+# key: ker
+# group: Math – Functions
+# condition: (yas-texmathp)
+# --
+\ker $0

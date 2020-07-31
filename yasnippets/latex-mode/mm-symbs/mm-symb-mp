@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mp
+# key: -+
+# group: Math – Symbols
+# condition: (yas-texmathp)
+# --
+\mp $0

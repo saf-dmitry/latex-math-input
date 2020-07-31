@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Omega
+# key: .W
+# group: Math – Greek Letters
+# condition: (yas-texmathp)
+# --
+\Omega$0

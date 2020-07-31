@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cosh
+# key: cosh
+# group: Math – Functions
+# condition: (yas-texmathp)
+# --
+\cosh $0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: rho
+# key: .r
+# group: Math – Greek Letters
+# condition: (yas-texmathp)
+# --
+\rho$0

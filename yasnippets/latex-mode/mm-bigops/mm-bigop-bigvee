@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: bigvee
+# key: bvee
+# group: Math – Big Operators
+# condition: (yas-texmathp)
+# --
+\bigvee $0

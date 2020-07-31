@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: imath
+# key: ii
+# group: Math – Symbols
+# condition: (yas-texmathp)
+# --
+\imath$0

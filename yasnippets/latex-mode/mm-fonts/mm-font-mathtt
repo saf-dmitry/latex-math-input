@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mathtt
+# key: &tt
+# group: Math – Font & Style
+# condition: (yas-texmathp)
+# --
+\mathtt{$0}
