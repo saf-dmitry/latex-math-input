@@ -273,8 +273,8 @@ Stretchable braces and other delimiters:
 | `lnot`  | `\lnot`       | $\lnot$       |
 | `top`   | `\top`        | $\top$        |
 | `bot`   | `\bot`        | $\bot$        |
-| `dag`   | `\dag`        | $\dagger$     |
-| `ddag`  | `\ddag`       | $\ddagger$    |
+| `dag`   | `\dagger`     | $\dagger$     |
+| `ddag`  | `\ddagger`    | $\ddagger$    |
 | `cdots` | `\cdots`      | $\cdots$      |
 | `vdots` | `\vdots`      | $\vdots$      |
 | `ddots` | `\ddots`      | $\ddots$      |
