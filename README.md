@@ -69,6 +69,8 @@ Below are some tips for implementing in other text expansion utilities:
 
 - In text expansion applications you have to choose expanding at delimiter and select Tab as the only delimiter, which should be discarded after expansion. Some applications do not allow you to select a delimiter. The recommended workaround here would be to add _two_ spaces at the end of each abbreviation (or set it on a per-group basis), which will play the role of "expansion trigger".
 
+- To eliminate conflicts with other abbreviation snippets, I would recommend to use comma or semicolon as a prefix for other frequently used snippets like `,btw`. For more complex snippets you could use logical groups separated by a dot like `me.email` and `me.phone`.
+
 ## List Of Abbreviations
 
 The list of defined abbreviations can be downloaded in [Markdown][abbr-md] or [HTML][abbr-html] format.
