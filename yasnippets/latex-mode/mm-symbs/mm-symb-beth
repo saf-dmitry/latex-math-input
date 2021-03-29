@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: beth
+# key: beth
+# group: Math – Symbols
+# condition: (yas-texmathp)
+# --
+\beth$0

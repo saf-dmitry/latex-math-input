@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: gimel
+# key: gimel
+# group: Math – Symbols
+# condition: (yas-texmathp)
+# --
+\gimel$0
