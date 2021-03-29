@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
-# name: Dd
-# key: Dd
+# name: DD
+# key: DD
 # group: Math – Additions
 # condition: (yas-texmathp)
 # --
-\Dd $0
+\DD $0

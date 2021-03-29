@@ -392,7 +392,7 @@ Stretchable braces and other delimiters:
 | Abbrev.  | LaTeX markup                               | Package |
 |----------|--------------------------------------------|---------|
 | `dd`     | `\dd`                                      | physics |
-| `Dd`     | `\Dd`                                      |         |
+| `DD`     | `\DD`                                      |         |
 | `erf`    | `\erf`                                     | physics |
 | `erfc`   | `\erfc`                                    |         |
 | `tens`   | `\tens{}`                                  |         |
