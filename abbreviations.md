@@ -389,34 +389,34 @@ Stretchable braces and other delimiters:
 
 ## Miscellaneous Additions
 
-| Abbrev.  | LaTeX markup                               | Package |
-|----------|--------------------------------------------|---------|
-| `dd`     | `\dd`                                      | physics |
-| `DD`     | `\DD`                                      |         |
-| `erf`    | `\erf`                                     | physics |
-| `erfc`   | `\erfc`                                    |         |
-| `tens`   | `\tens{}`                                  |         |
-| `dn`     | `\dn{}`                                    |         |
-| `const`  | `\const`                                   |         |
-| `canc`   | `\cancel{}`                                | cancel  |
-| `uu`     | `\micro`                                   | gensym  |
-| `ohm`    | `\ohm`                                     | gensym  |
-| `dm`     | `\diameter`                                | wasysym |
-| `ce`     | `\ce{}`                                    | mhchem  |
-| `ang`    | `\ang{}`                                   | siunitx |
-| `num`    | `\num{}`                                   | siunitx |
-| `si`     | `\si{}`                                    | siunitx |
-| `SI`     | `\SI{}{}`                                  | siunitx |
-| `nrange` | `\numrange{}{}`                            | siunitx |
-| `srange` | `\SIrange{}{}{}`                           | siunitx |
-| `ddt`    | `\frac{\partial}{\partial t}`              |         |
-| `ddx`    | `\frac{\partial}{\partial x}`              |         |
-| `ddy`    | `\frac{\partial}{\partial y}`              |         |
-| `ddz`    | `\frac{\partial}{\partial z}`              |         |
-| `d2dx2`  | `\frac{\partial^2}{\partial x^2}`          |         |
-| `d2dy2`  | `\frac{\partial^2}{\partial y^2}`          |         |
-| `d2dz2`  | `\frac{\partial^2}{\partial z^2}`          |         |
-| `d2dxy`  | `\frac{\partial^2}{\partial x \partial y}` |         |
-| `d2dyz`  | `\frac{\partial^2}{\partial y \partial z}` |         |
-| `d2dxz`  | `\frac{\partial^2}{\partial x \partial z}` |         |
+| Abbrev.  | LaTeX markup                               | Package              |
+|----------|--------------------------------------------|----------------------|
+| `dd`     | `\dd`                                      | physics              |
+| `DD`     | `\DD`                                      | (user-defined macro) |
+| `erf`    | `\erf`                                     | physics              |
+| `erfc`   | `\erfc`                                    | (user-defined macro) |
+| `tens`   | `\tens{}`                                  | (user-defined macro) |
+| `dn`     | `\dn{}`                                    | (user-defined macro) |
+| `const`  | `\const`                                   | (user-defined macro) |
+| `canc`   | `\cancel{}`                                | cancel               |
+| `uu`     | `\micro`                                   | gensym               |
+| `ohm`    | `\ohm`                                     | gensym               |
+| `dm`     | `\diameter`                                | wasysym              |
+| `ce`     | `\ce{}`                                    | mhchem               |
+| `ang`    | `\ang{}`                                   | siunitx              |
+| `num`    | `\num{}`                                   | siunitx              |
+| `si`     | `\si{}`                                    | siunitx              |
+| `SI`     | `\SI{}{}`                                  | siunitx              |
+| `nrange` | `\numrange{}{}`                            | siunitx              |
+| `srange` | `\SIrange{}{}{}`                           | siunitx              |
+| `ddt`    | `\frac{\partial}{\partial t}`              |                      |
+| `ddx`    | `\frac{\partial}{\partial x}`              |                      |
+| `ddy`    | `\frac{\partial}{\partial y}`              |                      |
+| `ddz`    | `\frac{\partial}{\partial z}`              |                      |
+| `d2dx2`  | `\frac{\partial^2}{\partial x^2}`          |                      |
+| `d2dy2`  | `\frac{\partial^2}{\partial y^2}`          |                      |
+| `d2dz2`  | `\frac{\partial^2}{\partial z^2}`          |                      |
+| `d2dxy`  | `\frac{\partial^2}{\partial x \partial y}` |                      |
+| `d2dyz`  | `\frac{\partial^2}{\partial y \partial z}` |                      |
+| `d2dxz`  | `\frac{\partial^2}{\partial x \partial z}` |                      |
 
