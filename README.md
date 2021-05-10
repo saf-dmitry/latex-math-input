@@ -3,21 +3,25 @@
 
 ## Motivation
 
-I often need to type LaTeX math in LaTeX or Markdown documents, interactive notebooks, presentation slides, diagrams, drawings, emails, discussion forums, on-line collaborative writing tools, etc. using different environments like a text editor, an email client, or a web browser. And while typing LaTeX is actually pretty easy, inputting _a lot_ of LaTeX math on a regular basis can soon become a cumbersome and time-consuming task.
+I often need to type LaTeX math in LaTeX or Markdown documents, interactive notebooks, presentation slides, diagrams, drawings, emails, discussion forums, on-line collaborative writing tools, etc. using different environments like a text editor, an email client, or a web browser. And while typing LaTeX is actually pretty easy, inputting a lot of LaTeX math on a regular basis can soon become a cumbersome and time-consuming task.
 
 Admittedly, many dedicated LaTeX writing environments include graphical aids, which help you with entering math symbols and constructs by choosing them from math palettes. While this works well, it's very slow if you need to enter many mathematical expressions.
 
 Inspired by this [blog post][castel-notes] I came up with the following set of abbreviations to speed up insertion of LaTeX math constructs. Typing a short abbreviation followed by pressing Tab give very rapid access to frequently used LaTeX commands and environment templates. For example, typing `/` followed by Tab will expand to `\frac{}{}` and position the cursor correctly inside the first pair of braces.
 
-The main goal is to create an easy-to-learn, scalable, and essentially implementation-agnostic set of abbreviations, which can be implemented in a wide variety of environments like template management plugins for text editors, system-wide text expansion applications, etc.
+The main goal is to create an easy-to-learn, scalable, and essentially implementation-agnostic set of abbreviations, which can be implemented in a wide variety of environments like template management plugins for text editors, OS-wide text expansion applications, etc.
 
 ## What Can I Do With It?
 
-- Take notes in real-time during scientific or technical lectures and presentations
+Just some typical use cases:
 
-- Quickly publish scientific or technical documents and books
+- Taking notes in real-time during scientific or technical lectures and presentations
 
-- Do scientific or technical homework as fast as with pen and paper
+- Authoring and publishing scientific or technical documents and books
+
+- Participating in discussions on math-related forums
+
+- Doing scientific or technical homework as fast as with pen and paper
 
 The system is designed mainly to support composing of LaTeX documents, but can be useful for writing in any format accepting LaTeX math input, like most Markdown dialects, reStructuredText, AsciiDoc, Jupyther Notebooks, etc.
 
