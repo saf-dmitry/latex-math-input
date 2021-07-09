@@ -19,7 +19,7 @@ Just some typical use cases:
 
 - Authoring and publishing scientific or technical documents and books
 
-- Participating in discussions on math-related forums
+- Participating in discussions on STEM-related forums
 
 - Doing scientific or technical homework as fast as with pen and paper
 
@@ -65,7 +65,7 @@ and uses the function `texmathp` defined in AUCTeX (autoloaded from [texmathp.el
 
 ## Implementation In Other Environments
 
-Below are some tips for implementing in other text expansion utilities:
+Below are some tips for implementing the snippets in other text expansion utilities:
 
 - The abbreviations are expanded only when preceded by a space. This should be the default option.
 
@@ -73,7 +73,7 @@ Below are some tips for implementing in other text expansion utilities:
 
 - In text expansion applications you have to choose expanding at delimiter and select Tab as the only delimiter, which should be discarded after expansion. Some applications do not allow you to select a delimiter. The recommended workaround here would be to add _two_ spaces at the end of each abbreviation (or set it on a per-group basis), which will play the role of "expansion trigger".
 
-- To eliminate conflicts with other abbreviation snippets, I would recommend to use comma or semicolon as a prefix for other frequently used snippets like `,btw`. For more complex snippets you could use logical groups separated by a dot like `me.email` and `me.phone`.
+- To eliminate possible conflicts with other snippet abbreviations, it is recommended to use commas or semicolons as a prefix for other frequently used snippets like `,btw`. More complex snippets can be organized using logical groups separated by a dot like `me.email` and `me.phone`.
 
 ## List Of Abbreviations
 
