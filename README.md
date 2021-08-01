@@ -9,7 +9,7 @@ Admittedly, many dedicated LaTeX writing environments include graphical aids, wh
 
 Inspired by this [blog post][castel-notes] I came up with the following set of abbreviations to speed up insertion of LaTeX math constructs. Typing a short abbreviation followed by pressing Tab give very rapid access to frequently used LaTeX commands and environment templates. For example, typing `/` followed by Tab will expand to `\frac{}{}` and position the cursor correctly inside the first pair of braces.
 
-The main goal is to create an easy-to-learn, scalable, and essentially implementation-agnostic set of abbreviations, which can be implemented in a wide variety of environments like template management plugins for text editors, OS-wide text expansion applications, etc.
+The main goal is to create an easy-to-learn, scalable, and essentially implementation-agnostic set of abbreviations, which can be implemented in a wide variety of text expansion utilities working either at the OS level or within an application.
 
 ## What Can I Do With It?
 
