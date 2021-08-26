@@ -1,4 +1,5 @@
 .DS_Store
+*.elc
 install.sh
 push.sh
 devnotes.md
