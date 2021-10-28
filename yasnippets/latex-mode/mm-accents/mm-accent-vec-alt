@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
-# name: bar (a)
-# key: bar
+# name: vec alt
+# key: vec
 # group: Math – Accents
 # condition: (yas-texmathp)
 # --
-\bar{$0}
+\vec{$0}

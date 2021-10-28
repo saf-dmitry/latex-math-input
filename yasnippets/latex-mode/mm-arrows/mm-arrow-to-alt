@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
-# name: gets (a)
-# key: gets
+# name: to alt
+# key: to
 # group: Math – Arrows
 # condition: (yas-texmathp)
 # --
-\gets $0
+\to $0

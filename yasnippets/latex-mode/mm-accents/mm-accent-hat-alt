@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: hat (a)
+# name: hat alt
 # key: hat
 # group: Math – Accents
 # condition: (yas-texmathp)

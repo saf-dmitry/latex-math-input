@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: text (a)
+# name: text alt
 # key: txt
 # group: Math – Miscellaneous
 # condition: (yas-texmathp)

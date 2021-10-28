@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: cup (a)
+# name: cup alt
 # key: isec
 # group: Math – Relations
 # condition: (yas-texmathp)
