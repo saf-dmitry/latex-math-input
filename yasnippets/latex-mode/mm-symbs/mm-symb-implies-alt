@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: implies alt
+# key: imp
+# group: Math – Symbols
+# condition: (yas-texmathp)
+# --
+\implies $0
