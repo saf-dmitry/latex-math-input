@@ -7,7 +7,7 @@ I often need to type LaTeX math in LaTeX or Markdown documents, interactive note
 
 Admittedly, many dedicated LaTeX writing environments include graphical aids, which help you with entering math symbols and constructs by choosing them from math palettes. While this works well, it's very slow if you need to enter many mathematical expressions.
 
-Inspired by this [blog post][castel-notes] I came up with the following set of abbreviations to speed up insertion of LaTeX math constructs. Typing a short abbreviation followed by pressing Tab give very rapid access to frequently used LaTeX commands and environment templates. For example, typing `/` followed by Tab will expand to `\frac{}{}` and position the cursor correctly inside the first pair of braces.
+Inspired by this [blog post][castel-notes] I came up with the following set of abbreviations to speed up insertion of LaTeX math constructs. Typing a short abbreviation followed by pressing Tab give very rapid access to frequently used LaTeX commands and environment templates. For example, typing `/` followed by Tab will expand to `\frac{}{}` and position the cursor correctly inside the first pair of braces. Another Tab will move you from the first argument to the second.
 
 The main goal is to create an easy-to-learn, scalable, and essentially implementation-agnostic set of abbreviations, which can be implemented in a wide variety of text expansion utilities working either at the OS level or within an application.
 
@@ -71,15 +71,13 @@ and uses the function `texmathp` defined in AUCTeX (autoloaded from [texmathp.el
 
 ## Implementation In Other Environments
 
-Below are some tips for implementing the snippets in other text expansion utilities:
+Below are some thoughts and tips for implementing the snippets in other text expansion utilities:
 
--   The abbreviations are expanded only when preceded by a space. This should be the default option.
+-   The abbreviations are expanded only at beginning of line or when preceded by a whitespace character. This should be the default option.
 
--   Abbreviation expansion is triggered preferably with the Tab key. Again, the Tab key can be used to jump to the points in the template where additional text has to be inserted. For example, Tab will expand `/` to `\frac{}{}` and position the cursor correctly inside the first pair of braces. Another Tab will move you from the first argument to the second.
+-   Abbreviation expansion is triggered preferably with the Tab key. In the text expansion application you have to choose expanding at delimiter and select Tab as the only delimiter, which should be discarded after expansion. Some applications do not allow you to select Tab as expansion trigger. The recommended workaround here would be to add _two_ spaces at the end of each abbreviation (or set it on a per-group basis), which will play the role of expansion trigger.
 
--   In text expansion applications you have to choose expanding at delimiter and select Tab as the only delimiter, which should be discarded after expansion. Some applications do not allow you to select a delimiter. The recommended workaround here would be to add _two_ spaces at the end of each abbreviation (or set it on a per-group basis), which will play the role of "expansion trigger".
-
--   To eliminate possible conflicts with other snippet abbreviations, it is recommended to use commas or semicolons as a prefix for other frequently used snippets like `,btw`. More complex snippets can be organized using logical groups separated by a dot like `me.email` and `me.phone`.
+-   To eliminate possible conflicts with other snippet abbreviations, it is recommended to use commas or semicolons as a prefix for _other_ frequently used snippets like `,btw`. Complex snippets can be organized using logical groups separated by a dot like `me.email` and `me.phone`.
 
 ## List Of Abbreviations
 
