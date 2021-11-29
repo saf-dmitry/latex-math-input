@@ -181,3 +181,16 @@ table + table {
     margin-top: 1.2rem;
 }
 
+@media print {
+
+    h1, h2, h3, h4, h5, h6 {
+        break-after: avoid;
+        break-inside: avoid;
+    }
+
+    table th, table td {
+        break-inside: avoid;
+    }
+
+}
+
