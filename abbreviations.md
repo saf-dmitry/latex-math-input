@@ -201,27 +201,28 @@ Variable-sized _n_-ary operators:
 
 ## Arrows
 
-| Abbrev. | LaTeX markup     | Renders as              |
-|---------|------------------|-------------------------|
-| `->`    | `\to`            | $\to$                   |
-| `<-`    | `\gets`          | $\gets$                 |
-| `to`    | `\to`            | $\to$                   |
-| `gets`  | `\gets`          | $\gets$                 |
-| `mto`   | `\mapsto`        | $\mapsto$               |
-| `larr`  | `\leftarrow`     | $\leftarrow$            |
-| `rarr`  | `\rightarrow`    | $\rightarrow$           |
-| `uarr`  | `\uparrow`       | $\uparrow$              |
-| `darr`  | `\downarrow`     | $\downarrow$            |
-| `Larr`  | `\Leftarrow`     | $\Leftarrow$            |
-| `Rarr`  | `\Rightarrow`    | $\Rightarrow$           |
-| `Uarr`  | `\Uparrow`       | $\Uparrow$              |
-| `Darr`  | `\Downarrow`     | $\Downarrow$            |
-| `nearr` | `\nearrow`       | $\nearrow$              |
-| `nwarr` | `\nwarrow`       | $\nwarrow$              |
-| `searr` | `\searrow`       | $\searrow$              |
-| `swarr` | `\swarrow`       | $\swarrow$              |
-| `xlarr` | `\xleftarrow{}`  | $\xleftarrow{\square}$  |
-| `xrarr` | `\xrightarrow{}` | $\xrightarrow{\square}$ |
+| Abbrev. | LaTeX markup      | Renders as              |
+|---------|-------------------|-------------------------|
+| `->`    | `\to`             | $\to$                   |
+| `<-`    | `\gets`           | $\gets$                 |
+| `to`    | `\to`             | $\to$                   |
+| `gets`  | `\gets`           | $\gets$                 |
+| `mto`   | `\mapsto`         | $\mapsto$               |
+| `larr`  | `\leftarrow`      | $\leftarrow$            |
+| `rarr`  | `\rightarrow`     | $\rightarrow$           |
+| `lrarr` | `\leftrightarrow` | $\leftrightarrow$       |
+| `uarr`  | `\uparrow`        | $\uparrow$              |
+| `darr`  | `\downarrow`      | $\downarrow$            |
+| `Larr`  | `\Leftarrow`      | $\Leftarrow$            |
+| `Rarr`  | `\Rightarrow`     | $\Rightarrow$           |
+| `Uarr`  | `\Uparrow`        | $\Uparrow$              |
+| `Darr`  | `\Downarrow`      | $\Downarrow$            |
+| `nearr` | `\nearrow`        | $\nearrow$              |
+| `nwarr` | `\nwarrow`        | $\nwarrow$              |
+| `searr` | `\searrow`        | $\searrow$              |
+| `swarr` | `\swarrow`        | $\swarrow$              |
+| `xlarr` | `\xleftarrow{}`   | $\xleftarrow{\square}$  |
+| `xrarr` | `\xrightarrow{}`  | $\xrightarrow{\square}$ |
 
 ## Delimiters
 
