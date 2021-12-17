@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: setminus
-# key: \\
+# key: sdif
 # group: Math – Relations
 # condition: (yas-texmathp)
 # --

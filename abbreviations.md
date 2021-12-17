@@ -115,11 +115,11 @@
 | `prop`  | `\propto`    | $\propto$   |
 | `in`    | `\in`        | $\in$       |
 | `ni`    | `\ni`        | $\ni$       |
-| `\\`    | `\setminus`  | $\setminus$ |
 | `ssub`  | `\subset`    | $\subset$   |
 | `ssup`  | `\supset`    | $\supset$   |
 | `ssub=` | `\subseteq`  | $\subseteq$ |
 | `ssup=` | `\supseteq`  | $\supseteq$ |
+| `sdif`  | `\setminus`  | $\setminus$ |
 | `wedge` | `\wedge`     | $\wedge$    |
 | `vee`   | `\vee`       | $\vee$      |
 | `land`  | `\land`      | $\land$     |
