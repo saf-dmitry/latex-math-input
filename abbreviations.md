@@ -347,6 +347,7 @@ Stretchable braces and other delimiters:
 | `:vmx`  | `vmatrix`         |
 | `:Vmx`  | `Vmatrix`         |
 | `:smx`  | `smallmatrix`     |
+| `:cd`   | `CD`              |
 
 ## Layout
 
