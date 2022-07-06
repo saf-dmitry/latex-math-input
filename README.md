@@ -47,7 +47,7 @@ The following general rules hold in order to enter LaTeX math commands and envir
 
 - Font and style commands can be entered using the `&` prefix: For instance, `&fr` expands to `\mathfrac{}`.
 
-- The `@` prefix is reserved for definition of complex building blocks and expressions: For example, `@enum` can be defined to yield the expression
+- The `@` prefix is reserved for definition of complex building blocks and expressions: For example, `@edef` can be defined to yield the expression
 
     ```latex
     e = \lim_{n \to \infty} \left( 1 + \frac{1}{n} \right)^n
