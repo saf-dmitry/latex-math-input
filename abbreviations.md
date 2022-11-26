@@ -264,7 +264,7 @@ Stretchable braces and other delimiters:
 | `+-`     | `\pm`         | $\pm$         |
 | `-+`     | `\mp`         | $\mp$         |
 | `...`    | `\dots`       | $\dots$       |
-| `==>`    | `\implies`    | $\implies$    |
+| `=>`     | `\implies`    | $\implies$    |
 | `imp`    | `\implies`    | $\implies$    |
 | `<=>`    | `\iff`        | $\iff$        |
 | `iff`    | `\iff`        | $\iff$        |

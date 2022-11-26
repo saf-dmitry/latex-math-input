@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: implies
-# key: ==>
+# key: =>
 # group: Math – Symbols
 # condition: (yas-texmathp)
 # --
