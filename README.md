@@ -59,7 +59,7 @@ Note: This is still pretty much work-in-progress and I expect some abbreviations
 
 ## Implementation Using Emacs YASnippet Plugin
 
-[YASnippet][yasnippet-github] is a template system for GNU Emacs. It allows you to type an abbreviation and automatically expand it into function templates. For information about installation of YASnippet and its snippets, i.e. templates, please consult corresponding [GiHub page][yasnippet-doc] and [repository][yasnippet-github]. Following are some notes on installation and setup specific to snippets provided here.
+[YASnippet][yasnippet-github] is a template system for GNU Emacs. It allows you to type an abbreviation and automatically expand it into function templates. For information about installation of YASnippet and its snippets, i.e. templates, please consult corresponding [GitHub page][yasnippet-doc] and [repository][yasnippet-github]. Following are some notes on installation and setup specific to snippets provided here.
 
 ### Installation
 
