@@ -59,15 +59,29 @@ Note: This is still pretty much work-in-progress and I expect some abbreviations
 
 ## Implementation Using Emacs YASnippet Plugin
 
-[YASnippet][yasnippet-github] is a template system for GNU Emacs. It allows you to type an abbreviation and automatically expand it into function templates. For information about installation of YASnippet and its snippets, i.e. templates, please consult corresponding [GiHub page][yasnippet-doc] and [repository][yasnippet-github]. Following are some notes on configuration and setup specific to snippets provided here.
+[YASnippet][yasnippet-github] is a template system for GNU Emacs. It allows you to type an abbreviation and automatically expand it into function templates. For information about installation of YASnippet and its snippets, i.e. templates, please consult corresponding [GiHub page][yasnippet-doc] and [repository][yasnippet-github]. Following are some notes on installation and setup specific to snippets provided here.
 
-Most snippets have the `condition` field set to `(yas-texmathp)`. The latter is defined as
+### Installation
+
+1. If not already done, load the YASnippet package and set the `yas-snippet-dirs` variable in your Emacs config file:
+
+    ```elisp
+    (require 'yasnippet)
+    (setq yas-snippet-dirs '("~/.emacs.d/snippets"))
+    (yas-global-mode 1)
+    ```
+
+2. Copy the content of the `yasnippets` folder to one of the directories specified in the `yas-snippet-dirs` variable (in this case `~/.emacs.d/snippets`).
+
+### Configuration
+
+Most snippets, except for math environment delimiters like the `equation` environment, have the `condition` field set to `(yas-texmathp)`. The latter is intended to control expansion depending on the local context and can be defined as
 
 ```elisp
 (defun yas-texmathp () (require 'texmathp) (texmathp))
 ```
 
-and uses the function `texmathp` defined in AUCTeX (autoloaded from [texmathp.el][texmathp]), which evaluates to `t` if the cursor is in math and to `nil` otherwise. It is aware of all environments that AUCTeX knows of, and you can add more using the custom option `texmathp-tex-commands`.
+This example uses the function `texmathp` defined in AUCTeX (autoloaded from [texmathp.el][texmathp]), which evaluates to `t` if the cursor is in math expression and to `nil` otherwise. The function is aware of all environments that AUCTeX knows of, and you can add more using the custom option `texmathp-tex-commands`.
 
 ## Implementation In Other Environments
 
