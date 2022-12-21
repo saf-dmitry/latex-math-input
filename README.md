@@ -47,7 +47,7 @@ The following general rules hold in order to enter LaTeX math commands and envir
 
 - Font and style commands can be entered using the `&` prefix: For instance, `&fr` expands to `\mathfrac{}`.
 
-- The `@` prefix is reserved for definition of complex building blocks and expressions: For example, `@edef` can be defined to yield the expression
+- The `@` prefix is reserved for user-defined building blocks and expressions: For example, `@edef` can be defined to yield the expression
 
     ```latex
     e = \lim_{n \to \infty} \left( 1 + \frac{1}{n} \right)^n
@@ -85,7 +85,7 @@ Most snippets, except for math environment delimiters like the `equation` enviro
 
 This example uses the function `texmathp` defined in AUCTeX (autoloaded from [texmathp.el][texmathp]), which evaluates to `t` if the cursor is in math expression and to `nil` otherwise. The function is aware of all environments that AUCTeX knows of, and you can add more using the custom option `texmathp-tex-commands`.
 
-## Implementation In Other Environments
+## Implementation in Other Environments
 
 Below are some thoughts and tips for implementing the snippets in other text expansion utilities:
 
@@ -95,9 +95,9 @@ Below are some thoughts and tips for implementing the snippets in other text exp
 
 - To eliminate possible conflicts with other snippet abbreviations, it is recommended to use commas or semicolons as a prefix for _other_ frequently used snippets like `,btw`. Complex snippets can be organized using logical groups separated by a dot like `me.email` and `me.phone`.
 
-## List Of Abbreviations
+## Defined Abbreviations
 
-The list of defined abbreviations can be downloaded in [Markdown][abbr-md] format.
+The overview of [defined abbreviations][abbr-md] can be downloaded in Markdown format for reference.
 
 [castel-notes]: https://castel.dev/post/lecture-notes-1/
 
