@@ -97,7 +97,7 @@ Below are some thoughts and tips for implementing the snippets in other text exp
 
 ## Defined Abbreviations
 
-The overview of [defined abbreviations][abbr-md] can be downloaded in Markdown format for reference.
+An [overview][abbr-md] of the defined abbreviations can be downloaded in Markdown format for reference.
 
 [castel-notes]: https://castel.dev/post/lecture-notes-1/
 
