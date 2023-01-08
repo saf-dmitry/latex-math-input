@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: mapsto
 # key: mto
-# group: Math – Arrows
+# group: Math Arrows
 # condition: (yas-texmathp)
 # --
 \mapsto $0

@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: ohm
 # key: ohm
-# group: Math – Additions
+# group: Math Additions
 # condition: (yas-texmathp)
 # --
 \ohm$0

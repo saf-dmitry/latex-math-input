@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: max
 # key: max
-# group: Math – Functions
+# group: Math Functions
 # condition: (yas-texmathp)
 # --
 \max $0

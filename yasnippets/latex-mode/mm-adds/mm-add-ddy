@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: ddy
 # key: ddy
-# group: Math – Additions
+# group: Math Additions
 # condition: (yas-texmathp)
 # --
 \frac{\partial}{\partial y} $0

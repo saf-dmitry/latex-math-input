@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: left parenthesis
 # key: (
-# group: Math – Delimiters
+# group: Math Delimiters
 # condition: (yas-texmathp)
 # --
 \left( $0

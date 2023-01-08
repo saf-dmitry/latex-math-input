@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: intertext
 # key: itxt
-# group: Math – Miscellaneous
+# group: Math Miscellaneous
 # condition: (yas-texmathp)
 # --
 \intertext{$0}

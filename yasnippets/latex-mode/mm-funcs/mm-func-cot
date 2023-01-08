@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: cot
 # key: cot
-# group: Math – Functions
+# group: Math Functions
 # condition: (yas-texmathp)
 # --
 \cot $0

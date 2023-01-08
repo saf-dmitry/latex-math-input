@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: aligned
 # key: :ald
-# group: Math – Environments
+# group: Math Environments
 # condition: (yas-texmathp)
 # --
 \begin{aligned}

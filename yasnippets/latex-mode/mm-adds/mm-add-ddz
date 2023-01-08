@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: ddz
 # key: ddz
-# group: Math – Additions
+# group: Math Additions
 # condition: (yas-texmathp)
 # --
 \frac{\partial}{\partial z} $0

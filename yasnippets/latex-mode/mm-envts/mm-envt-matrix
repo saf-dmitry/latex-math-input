@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: matrix
 # key: :mmx
-# group: Math – Environments
+# group: Math Environments
 # condition: (yas-texmathp)
 # --
 \begin{matrix}

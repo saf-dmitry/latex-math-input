@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: oint lim
 # key: oint:
-# group: Math – Big Operators
+# group: Math Big Operators
 # condition: (yas-texmathp)
 # --
 \oint_{$1}^{$0}

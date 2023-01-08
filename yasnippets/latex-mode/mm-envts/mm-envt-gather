@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: gather
 # key: :gtr
-# group: Math – Environments
+# group: Math Environments
 # --
 \begin{gather}
  $0

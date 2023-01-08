@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: wr
 # key: wr
-# group: Math – Relations
+# group: Math Relations
 # condition: (yas-texmathp)
 # --
 \wr $0

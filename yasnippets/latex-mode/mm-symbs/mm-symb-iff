@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: iff
 # key: <=>
-# group: Math – Symbols
+# group: Math Symbols
 # condition: (yas-texmathp)
 # --
 \iff $0

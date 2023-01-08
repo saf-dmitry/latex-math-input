@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: micro
 # key: uu
-# group: Math – Additions
+# group: Math Additions
 # condition: (yas-texmathp)
 # --
 \micro $0

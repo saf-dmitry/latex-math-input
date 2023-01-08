@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: biguplus lim
 # key: U+:
-# group: Math – Big Operators
+# group: Math Big Operators
 # condition: (yas-texmathp)
 # --
 \biguplus_{$1}^{$0}

@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: varrho
 # key: .rr
-# group: Math – Greek Letters
+# group: Math Greek Letters
 # condition: (yas-texmathp)
 # --
 \varrho$0

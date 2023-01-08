@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: si
 # key: si
-# group: Math – Additions
+# group: Math Additions
 # condition: (yas-texmathp)
 # --
 \si{$0}

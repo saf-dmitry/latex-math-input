@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: check
 # key: 'v
-# group: Math – Accents
+# group: Math Accents
 # condition: (yas-texmathp)
 # --
 \check{$0}

@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: widehat
 # key: 'h
-# group: Math – Accents
+# group: Math Accents
 # condition: (yas-texmathp)
 # --
 \widehat{$0}

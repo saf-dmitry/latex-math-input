@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: varkappa
 # key: .kk
-# group: Math – Greek Letters
+# group: Math Greek Letters
 # condition: (yas-texmathp)
 # --
 \varkappa$0

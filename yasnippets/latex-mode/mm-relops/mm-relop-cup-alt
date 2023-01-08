@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: cup alt
 # key: isec
-# group: Math – Relations
+# group: Math Relations
 # condition: (yas-texmathp)
 # --
 \cup $0

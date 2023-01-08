@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: align
 # key: :aln
-# group: Math – Environments
+# group: Math Environments
 # --
 \begin{align}
  $0

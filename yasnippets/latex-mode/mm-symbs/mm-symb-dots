@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: dots
 # key: ...
-# group: Math – Symbols
+# group: Math Symbols
 # condition: (yas-texmathp)
 # --
 \dots$0

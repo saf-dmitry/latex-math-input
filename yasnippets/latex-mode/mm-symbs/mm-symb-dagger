@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: dagger
 # key: dag
-# group: Math – Symbols
+# group: Math Symbols
 # condition: (yas-texmathp)
 # --
 \dagger$0

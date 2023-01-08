@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: equation
 # key: :eqn
-# group: Math – Environments
+# group: Math Environments
 # --
 \begin{equation}
  $0

@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: mathring
 # key: 'o
-# group: Math – Accents
+# group: Math Accents
 # condition: (yas-texmathp)
 # --
 \mathring{$0}

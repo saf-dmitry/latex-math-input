@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: jmath
 # key: jj
-# group: Math – Symbols
+# group: Math Symbols
 # condition: (yas-texmathp)
 # --
 \jmath$0

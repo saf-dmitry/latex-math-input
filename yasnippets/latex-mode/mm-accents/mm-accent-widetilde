@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: widetilde
 # key: 't
-# group: Math – Accents
+# group: Math Accents
 # condition: (yas-texmathp)
 # --
 \wide{$0}

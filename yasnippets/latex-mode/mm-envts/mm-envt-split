@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: split
 # key: :spl
-# group: Math – Environments
+# group: Math Environments
 # condition: (yas-texmathp)
 # --
 \begin{split}

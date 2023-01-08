@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: nless
 # key: !<
-# group: Math – Relations
+# group: Math Relations
 # condition: (yas-texmathp)
 # --
 \nless $0

@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: nonumber
 # key: nnum
-# group: Math – Miscellaneous
+# group: Math Miscellaneous
 # condition: (yas-texmathp)
 # --
 \nonumber$0

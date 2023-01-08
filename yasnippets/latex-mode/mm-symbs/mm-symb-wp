@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: wp
 # key: wp
-# group: Math – Symbols
+# group: Math Symbols
 # condition: (yas-texmathp)
 # --
 \wp$0

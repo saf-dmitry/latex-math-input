@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: lhd
 # key: lhd
-# group: Math – Relations
+# group: Math Relations
 # condition: (yas-texmathp)
 # --
 \lhd $0

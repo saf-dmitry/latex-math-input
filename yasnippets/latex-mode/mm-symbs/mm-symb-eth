@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: eth
 # key: eth
-# group: Math – Symbols
+# group: Math Symbols
 # condition: (yas-texmathp)
 # --
 \eth$0

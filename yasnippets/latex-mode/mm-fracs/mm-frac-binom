@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: binom
 # key: binom
-# group: Math – Fractions & Binominals
+# group: Math Fractions & Binominals
 # condition: (yas-texmathp)
 # --
 \binom{$1}{$0}

@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: prec
 # key: -<
-# group: Math – Relations
+# group: Math Relations
 # condition: (yas-texmathp)
 # --
 \prec $0

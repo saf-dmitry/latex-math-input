@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: pm
 # key: +-
-# group: Math – Symbols
+# group: Math Symbols
 # condition: (yas-texmathp)
 # --
 \pm $0

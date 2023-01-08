@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: prod
 # key: prod
-# group: Math – Big Operators
+# group: Math Big Operators
 # condition: (yas-texmathp)
 # --
 \prod $0

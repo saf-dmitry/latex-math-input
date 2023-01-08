@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: subset
 # key: ssub
-# group: Math – Relations
+# group: Math Relations
 # condition: (yas-texmathp)
 # --
 \subset $0

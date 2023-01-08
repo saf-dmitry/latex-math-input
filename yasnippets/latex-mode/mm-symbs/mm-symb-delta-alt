@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: Delta alt
 # key: inc
-# group: Math – Symbols
+# group: Math Symbols
 # condition: (yas-texmathp)
 # --
 \Delta $0

@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: top
 # key: top
-# group: Math – Symbols
+# group: Math Symbols
 # condition: (yas-texmathp)
 # --
 \top$0

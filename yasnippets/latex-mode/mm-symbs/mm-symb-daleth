@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: daleth
 # key: daleth
-# group: Math – Symbols
+# group: Math Symbols
 # condition: (yas-texmathp)
 # --
 \daleth$0

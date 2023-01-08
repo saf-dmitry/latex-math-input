@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: cancel
 # key: canc
-# group: Math – Additions
+# group: Math Additions
 # condition: (yas-texmathp)
 # --
 \cancel{$0}

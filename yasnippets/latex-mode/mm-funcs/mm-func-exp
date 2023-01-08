@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: exp
 # key: exp
-# group: Math – Functions
+# group: Math Functions
 # condition: (yas-texmathp)
 # --
 \exp $0

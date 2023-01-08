@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: root
 # key: root
-# group: Math – Roots
+# group: Math Roots
 # condition: (yas-texmathp)
 # --
 \sqrt[$1]{$0}

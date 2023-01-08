@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: bigodot lim
 # key: O.:
-# group: Math – Big Operators
+# group: Math Big Operators
 # condition: (yas-texmathp)
 # --
 \bigodot_{$1}^{$0}

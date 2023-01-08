@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: SIrange
 # key: srange
-# group: Math – Additions
+# group: Math Additions
 # condition: (yas-texmathp)
 # --
 \SIrange{$1}{$2}{$0}

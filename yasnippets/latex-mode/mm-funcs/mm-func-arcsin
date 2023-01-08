@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: arcsin
 # key: arcsin
-# group: Math – Functions
+# group: Math Functions
 # condition: (yas-texmathp)
 # --
 \arcsin $0

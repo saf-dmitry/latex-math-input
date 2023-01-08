@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: const
 # key: const
-# group: Math – Additions
+# group: Math Additions
 # condition: (yas-texmathp)
 # --
 \const$0

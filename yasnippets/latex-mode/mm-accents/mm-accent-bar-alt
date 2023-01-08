@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: bar alt
 # key: bar
-# group: Math – Accents
+# group: Math Accents
 # condition: (yas-texmathp)
 # --
 \bar{$0}

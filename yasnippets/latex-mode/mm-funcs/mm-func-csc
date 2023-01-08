@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: csc
 # key: csc
-# group: Math – Functions
+# group: Math Functions
 # condition: (yas-texmathp)
 # --
 \csc $0

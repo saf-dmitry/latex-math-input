@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: grave
 # key: '\
-# group: Math – Accents
+# group: Math Accents
 # condition: (yas-texmathp)
 # --
 \grave{$0}

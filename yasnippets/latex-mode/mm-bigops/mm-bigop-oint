@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: oint
 # key: oint
-# group: Math – Big Operators
+# group: Math Big Operators
 # condition: (yas-texmathp)
 # --
 \oint $0

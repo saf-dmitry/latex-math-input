@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: tan
 # key: tan
-# group: Math – Functions
+# group: Math Functions
 # condition: (yas-texmathp)
 # --
 \tan $0

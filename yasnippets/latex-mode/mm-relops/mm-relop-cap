@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: cap
 # key: cap
-# group: Math – Relations
+# group: Math Relations
 # condition: (yas-texmathp)
 # --
 \cap $0

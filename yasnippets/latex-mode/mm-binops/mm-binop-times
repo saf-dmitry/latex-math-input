@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: times
 # key: xx
-# group: Math – Binary Operators
+# group: Math Binary Operators
 # condition: (yas-texmathp)
 # --
 \times $0

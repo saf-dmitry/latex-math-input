@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: implies
 # key: =>
-# group: Math – Symbols
+# group: Math Symbols
 # condition: (yas-texmathp)
 # --
 \implies $0

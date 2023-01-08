@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: cdots
 # key: cdots
-# group: Math – Symbols
+# group: Math Symbols
 # condition: (yas-texmathp)
 # --
 \cdots $0

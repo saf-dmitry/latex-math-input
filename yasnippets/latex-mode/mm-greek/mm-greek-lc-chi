@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: chi
 # key: .x
-# group: Math – Greek Letters
+# group: Math Greek Letters
 # condition: (yas-texmathp)
 # --
 \chi$0

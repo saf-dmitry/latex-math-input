@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: vmatrix
 # key: :vmx
-# group: Math – Environments
+# group: Math Environments
 # condition: (yas-texmathp)
 # --
 \begin{vmatrix}

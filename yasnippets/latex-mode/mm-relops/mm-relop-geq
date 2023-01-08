@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: geq
 # key: >=
-# group: Math – Relations
+# group: Math Relations
 # condition: (yas-texmathp)
 # --
 \geq $0

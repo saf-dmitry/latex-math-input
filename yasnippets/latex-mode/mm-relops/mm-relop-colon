@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: colon
 # key: ::
-# group: Math – Relations
+# group: Math Relations
 # condition: (yas-texmathp)
 # --
 \colon $0

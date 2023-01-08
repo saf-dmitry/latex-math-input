@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: bmod
 # key: bmod
-# group: Math – Functions
+# group: Math Functions
 # condition: (yas-texmathp)
 # --
 \bmod $0

@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: d2dz2
 # key: d2dz2
-# group: Math – Additions
+# group: Math Additions
 # condition: (yas-texmathp)
 # --
 \frac{\partial^2}{\partial z^2} $0

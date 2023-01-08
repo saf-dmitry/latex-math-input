@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: sec
 # key: sec
-# group: Math – Functions
+# group: Math Functions
 # condition: (yas-texmathp)
 # --
 \sec $0

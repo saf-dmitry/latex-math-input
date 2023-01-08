@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: tilde
 # key: '~
-# group: Math – Accents
+# group: Math Accents
 # condition: (yas-texmathp)
 # --
 \tilde{$0}

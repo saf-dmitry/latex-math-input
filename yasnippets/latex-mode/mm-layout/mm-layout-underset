@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: underset
 # key: uset
-# group: Math – Layout
+# group: Math Layout
 # condition: (yas-texmathp)
 # --
 \underset{$1}{$0}

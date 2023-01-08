@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: downarrow
 # key: darr
-# group: Math – Arrows
+# group: Math Arrows
 # condition: (yas-texmathp)
 # --
 \downarrow$0
