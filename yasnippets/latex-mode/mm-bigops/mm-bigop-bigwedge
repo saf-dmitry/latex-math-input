@@ -4,4 +4,4 @@
 # group: Math Big Operators
 # condition: (yas-texmathp)
 # --
-\bigwedge $0
+\bigwedge_{$1}^{$0}

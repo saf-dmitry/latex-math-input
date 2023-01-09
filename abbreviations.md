@@ -164,38 +164,23 @@
 
 Variable-sized _n_-ary operators:
 
-| Abbrev.   | LaTeX markup       | Renders as                       |
-|-----------|--------------------|----------------------------------|
-| `int`     | `\int`             | $\int$                           |
-| `int:`    | `\int_{}^{}`       | $\int_{\square}^{\square}$       |
-| `iint`    | `\iint`            | $\iint$                          |
-| `iint:`   | `\iint_{}^{}`      | $\iint_{\square}^{\square}$      |
-| `iiint`   | `\iiint`           | $\iiint$                         |
-| `iiint:`  | `\iiint_{}^{}`     | $\iiint_{\square}^{\square}$     |
-| `oint`    | `\oint`            | $\oint$                          |
-| `oint:`   | `\oint_{}^{}`      | $\oint_{\square}^{\square}$      |
-| `sum`     | `\sum`             | $\sum$                           |
-| `sum:`    | `\sum_{}^{}`       | $\sum_{\square}^{\square}$       |
-| `prod`    | `\prod`            | $\prod$                          |
-| `prod:`   | `\prod_{}^{}`      | $\prod_{\square}^{\square}$      |
-| `cprod`   | `\coprod`          | $\coprod$                        |
-| `cprod:`  | `\coprod_{}^{}`    | $\coprod_{\square}^{\square}$    |
-| `bwedge`  | `\bigwedge`        | $\bigwedge$                      |
-| `bwedge:` | `\bigwedge_{}^{}`  | $\bigwedge_{\square}^{\square}$  |
-| `bvee`    | `\bigvee`          | $\bigvee$                        |
-| `bvee:`   | `\bigvee_{}^{}`    | $\bigvee_{\square}^{\square}$    |
-| `bcap`    | `\bigcap`          | $\bigcap$                        |
-| `bcap:`   | `\bigcap_{}^{}`    | $\bigcap_{\square}^{\square}$    |
-| `bcup`    | `\bigcup`          | $\bigcup$                        |
-| `bcup:`   | `\bigcup_{}^{}`    | $\bigcup_{\square}^{\square}$    |
-| `O+`      | `\bigoplus`        | $\bigoplus$                      |
-| `O+:`     | `\bigoplus_{}^{}`  | $\bigoplus_{\square}^{\square}$  |
-| `Ox`      | `\bigotimes`       | $\bigotimes$                     |
-| `Ox:`     | `\bigotimes_{}^{}` | $\bigotimes_{\square}^{\square}$ |
-| `O.`      | `\bigodot`         | $\bigodot$                       |
-| `O.:`     | `\bigodot_{}^{}`   | $\bigodot_{\square}^{\square}$   |
-| `U+`      | `\biguplus`        | $\biguplus$                      |
-| `U+:`     | `\biguplus_{}^{}`  | $\biguplus_{\square}^{\square}$  |
+| Abbrev.  | LaTeX markup       | Renders as                       |
+|----------|--------------------|----------------------------------|
+| `int`    | `\int_{}^{}`       | $\int_{\square}^{\square}$       |
+| `iint`   | `\iint_{}`         | $\iint_{\square}$                |
+| `iiint`  | `\iiint_{}`        | $\iiint_{\square}$               |
+| `oint`   | `\oint_{}`         | $\oint_{\square}$                |
+| `sum`    | `\sum_{}^{}`       | $\sum_{\square}^{\square}$       |
+| `prod`   | `\prod_{}^{}`      | $\prod_{\square}^{\square}$      |
+| `cprod`  | `\coprod_{}^{}`    | $\coprod_{\square}^{\square}$    |
+| `bwedge` | `\bigwedge_{}^{}`  | $\bigwedge_{\square}^{\square}$  |
+| `bvee`   | `\bigvee_{}^{}`    | $\bigvee_{\square}^{\square}$    |
+| `bcap`   | `\bigcap_{}^{}`    | $\bigcap_{\square}^{\square}$    |
+| `bcup`   | `\bigcup_{}^{}`    | $\bigcup_{\square}^{\square}$    |
+| `O+`     | `\bigoplus_{}^{}`  | $\bigoplus_{\square}^{\square}$  |
+| `Ox`     | `\bigotimes_{}^{}` | $\bigotimes_{\square}^{\square}$ |
+| `O.`     | `\bigodot_{}^{}`   | $\bigodot_{\square}^{\square}$   |
+| `U+`     | `\biguplus_{}^{}`  | $\biguplus_{\square}^{\square}$  |
 
 ## Arrows
 

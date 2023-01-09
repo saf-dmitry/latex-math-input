@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
-# name: bigcup lim
-# key: bcup:
+# name: coprod
+# key: cprod
 # group: Math Big Operators
 # condition: (yas-texmathp)
 # --
-\bigcup_{$1}^{$0}
+\coprod_{$1}^{$0}

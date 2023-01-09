@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: bigcap lim
-# key: bcap:
-# group: Math Big Operators
-# condition: (yas-texmathp)
-# --
-\bigcap_{$1}^{$0}

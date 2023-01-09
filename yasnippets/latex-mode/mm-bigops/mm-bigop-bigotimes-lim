@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: bigotimes lim
-# key: Ox:
-# group: Math Big Operators
-# condition: (yas-texmathp)
-# --
-\bigotimes_{$1}^{$0}

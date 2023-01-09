@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: int lim
-# key: int:
-# group: Math Big Operators
-# condition: (yas-texmathp)
-# --
-\int_{$1}^{$0}

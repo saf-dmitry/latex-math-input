@@ -4,4 +4,4 @@
 # group: Math Big Operators
 # condition: (yas-texmathp)
 # --
-\bigotimes $0
+\bigotimes_{$1}^{$0}
