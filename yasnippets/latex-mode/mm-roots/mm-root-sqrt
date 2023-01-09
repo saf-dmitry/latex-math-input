@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: sqrt
-# key: sq
+# key: sqr
 # group: Math Roots
 # condition: (yas-texmathp)
 # --

@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: 4-th root
-# key: rt4
-# group: Math Roots
-# condition: (yas-texmathp)
-# --
-\sqrt[4]{$0}

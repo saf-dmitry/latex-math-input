@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: text alt
-# key: txt
-# group: Math Miscellaneous
-# condition: (yas-texmathp)
-# --
-\text{$0}

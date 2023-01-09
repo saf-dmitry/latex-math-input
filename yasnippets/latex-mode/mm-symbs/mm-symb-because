@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: because
-# key: :.
-# group: Math Symbols
-# condition: (yas-texmathp)
-# --
-\because $0

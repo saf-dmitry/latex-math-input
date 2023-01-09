@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: tens
-# key: tens
-# group: Math Additions
-# condition: (yas-texmathp)
-# --
-\tens{$0}

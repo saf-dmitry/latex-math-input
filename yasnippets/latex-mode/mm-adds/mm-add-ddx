@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: ddx
-# key: ddx
-# group: Math Additions
-# condition: (yas-texmathp)
-# --
-\frac{\partial}{\partial x} $0

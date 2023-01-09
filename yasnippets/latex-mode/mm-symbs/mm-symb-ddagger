@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: ddagger
-# key: ddag
-# group: Math Symbols
-# condition: (yas-texmathp)
-# --
-\ddagger$0

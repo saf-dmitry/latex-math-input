@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: notag
-# key: ntag
-# group: Math Miscellaneous
-# condition: (yas-texmathp)
-# --
-\notag$0

@@ -5,7 +5,7 @@
 
 I often need to type LaTeX math in LaTeX or Markdown documents, interactive notebooks, presentation slides, diagrams, drawings, emails, discussion forums, on-line collaborative writing tools, etc. using different environments like a text editor, an email client, or a web browser. And while typing LaTeX is actually pretty easy, inputting a lot of LaTeX math on a regular basis can soon become a cumbersome and time-consuming task.
 
-Admittedly, many dedicated LaTeX writing environments include graphical aids, which help you with entering math symbols and constructs by choosing them from math palettes. While this works well, it's very slow if you need to enter many mathematical expressions.
+Admittedly, many dedicated LaTeX writing environments include graphical aids, which help you with entering math symbols and constructs by choosing them from math palettes. While this works well, it's quite slow if you need to enter many mathematical expressions.
 
 Inspired by this [blog post][castel-notes] I came up with the following set of abbreviations to speed up insertion of LaTeX math constructs. Typing a short abbreviation followed by pressing Tab give very rapid access to frequently used LaTeX commands and environment templates. For example, typing `/` followed by Tab will expand to `\frac{}{}` and position the cursor correctly inside the first pair of braces. Another Tab will move you from the first argument to the second.
 
@@ -29,7 +29,7 @@ The system is designed mainly to support composing of LaTeX documents, but can b
 
 The following general rules hold in order to enter LaTeX math commands and environments:
 
-- Many mathematical symbols and operators are obtained by "natural" key combinations. For instance, `+-` yields `\pm`, `<<` yields `\ll`, `o+` yields `\oplus`, `""` yields `\text{}`, `/` yields `\frac{}{}`, etc.
+- Many mathematical symbols and operators are obtained by "natural" key combinations. For instance, `+-` yields `\pm`, `<<` yields `\ll`, `o+` yields `\oplus`, `xx` yields `\times`, `/` yields `\frac{}{}`, etc.
 
 - Greek letters can be obtained as "variants" of Latin letters using the `.` prefix. For instance, `.p` yields `\pi`. Variants are obtained by doubling up appropriate Latin letters. For instance, `.e` yields `\epsilon`, while `.ee` yields `\varepsilon`.
 
@@ -47,15 +47,15 @@ The following general rules hold in order to enter LaTeX math commands and envir
 
 - Font and style commands can be entered using the `&` prefix: For instance, `&fr` expands to `\mathfrac{}`.
 
-- The `@` prefix is reserved for user-defined building blocks and expressions: For example, `@edef` can be defined to yield the expression
+- The `@` prefix is reserved for user-defined building blocks and expressions: For example, `@ddt` can be defined to yield the expression
 
     ```latex
-    e = \lim_{n \to \infty} \left( 1 + \frac{1}{n} \right)^n
+    \frac{\partial}{\partial t}
     ```
 
 - Some commands have aliases for semantic purposes or easy access on various country-specific keyboard layouts.
 
-Note: This is still pretty much work-in-progress and I expect some abbreviations will change in the future.
+**Note:** This is still pretty much work-in-progress and I expect some abbreviations will change in the future.
 
 ## Implementation Using Emacs YASnippet Plugin
 

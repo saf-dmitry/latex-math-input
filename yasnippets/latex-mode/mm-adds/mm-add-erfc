@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: erfc
-# key: erfc
-# group: Math Additions
-# condition: (yas-texmathp)
-# --
-\erfc $0

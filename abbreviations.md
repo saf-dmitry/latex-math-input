@@ -88,10 +88,9 @@
 
 | Abbrev. | LaTeX markup | Renders as                |
 |---------|--------------|---------------------------|
-| `sq`    | `\sqrt{}`    | $\sqrt{\square}$          |
+| `sqr`   | `\sqrt{}`    | $\sqrt{\square}$          |
 | `rt2`   | `\sqrt{}`    | $\sqrt{\square}$          |
 | `rt3`   | `\sqrt[3]{}` | $\sqrt[3]{\square}$       |
-| `rt4`   | `\sqrt[4]{}` | $\sqrt[4]{\square}$       |
 | `root`  | `\sqrt[]{}`  | $\sqrt[\square]{\square}$ |
 
 ## Relations
@@ -151,7 +150,6 @@
 |---------|--------------|------------|
 | `*`     | `\cdot`      | $\cdot$    |
 | `**`    | `\ast`       | $\ast$     |
-| `***`   | `\star`      | $\star$    |
 | `xx`    | `\times`     | $\times$   |
 | `lx`    | `\ltimes`    | $\ltimes$  |
 | `rx`    | `\rtimes`    | $\rtimes$  |
@@ -271,8 +269,6 @@ Stretchable braces and other delimiters:
 | `AA`     | `\forall`     | $\forall$     |
 | `EE`     | `\exists`     | $\exists$     |
 | `!EE`    | `\nexists`    | $\nexists$    |
-| `.:`     | `\therefore`  | $\therefore$  |
-| `:.`     | `\because`    | $\because$    |
 | `0/`     | `\emptyset`   | $\emptyset$   |
 | `o/`     | `\varnothing` | $\varnothing$ |
 | `&&`     | `\And`        | $\And$        |
@@ -280,8 +276,6 @@ Stretchable braces and other delimiters:
 | `lnot`   | `\lnot`       | $\lnot$       |
 | `top`    | `\top`        | $\top$        |
 | `bot`    | `\bot`        | $\bot$        |
-| `dag`    | `\dagger`     | $\dagger$     |
-| `ddag`   | `\ddagger`    | $\ddagger$    |
 | `cdots`  | `\cdots`      | $\cdots$      |
 | `vdots`  | `\vdots`      | $\vdots$      |
 | `ddots`  | `\ddots`      | $\ddots$      |
@@ -354,7 +348,6 @@ Stretchable braces and other delimiters:
 | Abbrev. | LaTeX markup    |
 |---------|-----------------|
 | `qq`    | `\quad`         |
-| `qqq`   | `\qquad`        |
 | `oset`  | `\overset{}{}`  |
 | `uset`  | `\underset{}{}` |
 | `sset`  | `\sideset{}{}`  |
@@ -383,43 +376,24 @@ Stretchable braces and other delimiters:
 
 | Abbrev. | LaTeX markup   |
 |---------|----------------|
-| `""`    | `\text{}`      |
-| `txt`   | `\text{}`      |
 | `tag`   | `\tag{}`       |
-| `ntag`  | `\notag`       |
-| `nnum`  | `\nonumber`    |
+| `txt`   | `\text{}`      |
 | `itxt`  | `\intertext{}` |
 
 ## Miscellaneous Additions
 
-| Abbrev.  | LaTeX markup                               | Package              |
-|----------|--------------------------------------------|----------------------|
-| `dd`     | `\dd`                                      | physics              |
-| `DD`     | `\DD`                                      | (user-defined macro) |
-| `erf`    | `\erf`                                     | physics              |
-| `erfc`   | `\erfc`                                    | (user-defined macro) |
-| `tens`   | `\tens{}`                                  | (user-defined macro) |
-| `dn`     | `\dn{}`                                    | (user-defined macro) |
-| `const`  | `\const`                                   | (user-defined macro) |
-| `canc`   | `\cancel{}`                                | cancel               |
-| `uu`     | `\micro`                                   | gensym               |
-| `ohm`    | `\ohm`                                     | gensym               |
-| `dm`     | `\diameter`                                | wasysym              |
-| `ce`     | `\ce{}`                                    | mhchem               |
-| `ang`    | `\ang{}`                                   | siunitx              |
-| `num`    | `\num{}`                                   | siunitx              |
-| `si`     | `\si{}`                                    | siunitx              |
-| `SI`     | `\SI{}{}`                                  | siunitx              |
-| `nrange` | `\numrange{}{}`                            | siunitx              |
-| `srange` | `\SIrange{}{}{}`                           | siunitx              |
-| `ddt`    | `\frac{\partial}{\partial t}`              |                      |
-| `ddx`    | `\frac{\partial}{\partial x}`              |                      |
-| `ddy`    | `\frac{\partial}{\partial y}`              |                      |
-| `ddz`    | `\frac{\partial}{\partial z}`              |                      |
-| `d2dx2`  | `\frac{\partial^2}{\partial x^2}`          |                      |
-| `d2dy2`  | `\frac{\partial^2}{\partial y^2}`          |                      |
-| `d2dz2`  | `\frac{\partial^2}{\partial z^2}`          |                      |
-| `d2dxy`  | `\frac{\partial^2}{\partial x \partial y}` |                      |
-| `d2dyz`  | `\frac{\partial^2}{\partial y \partial z}` |                      |
-| `d2dxz`  | `\frac{\partial^2}{\partial x \partial z}` |                      |
+| Abbrev.  | LaTeX markup     | Package |
+|----------|------------------|---------|
+| `dd`     | `\dd`            | physics |
+| `erf`    | `\erf`           | physics |
+| `uu`     | `\micro`         | gensym  |
+| `ohm`    | `\ohm`           | gensym  |
+| `dm`     | `\diameter`      | wasysym |
+| `ce`     | `\ce{}`          | mhchem  |
+| `ang`    | `\ang{}`         | siunitx |
+| `num`    | `\num{}`         | siunitx |
+| `si`     | `\si{}`          | siunitx |
+| `SI`     | `\SI{}{}`        | siunitx |
+| `nrange` | `\numrange{}{}`  | siunitx |
+| `srange` | `\SIrange{}{}{}` | siunitx |
 

@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: star
-# key: ***
-# group: Math Binary Operators
-# condition: (yas-texmathp)
-# --
-\star $0

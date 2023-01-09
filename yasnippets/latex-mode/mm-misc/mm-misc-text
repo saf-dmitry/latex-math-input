@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: text
-# key: ""
+# key: txt
 # group: Math Miscellaneous
 # condition: (yas-texmathp)
 # --
