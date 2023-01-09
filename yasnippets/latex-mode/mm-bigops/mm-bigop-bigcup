@@ -4,4 +4,4 @@
 # group: Math Big Operators
 # condition: (yas-texmathp)
 # --
-\bigcup_{$1}^{$0}
+\bigcup_{$0}

@@ -4,4 +4,4 @@
 # group: Math Big Operators
 # condition: (yas-texmathp)
 # --
-\int_{$1}^{$0}
+\int_{$0}

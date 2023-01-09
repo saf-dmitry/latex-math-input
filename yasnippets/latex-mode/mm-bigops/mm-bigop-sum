@@ -4,4 +4,4 @@
 # group: Math Big Operators
 # condition: (yas-texmathp)
 # --
-\sum_{$1}^{$0}
+\sum_{$0}

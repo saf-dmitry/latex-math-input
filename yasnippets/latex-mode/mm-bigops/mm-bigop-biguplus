@@ -4,4 +4,4 @@
 # group: Math Big Operators
 # condition: (yas-texmathp)
 # --
-\biguplus_{$1}^{$0}
+\biguplus_{$0}
