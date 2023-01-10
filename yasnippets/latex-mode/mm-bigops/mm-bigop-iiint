@@ -4,4 +4,4 @@
 # group: Math Big Operators
 # condition: (yas-texmathp)
 # --
-\iiint_{$0}
+\iiint_{$1}$0

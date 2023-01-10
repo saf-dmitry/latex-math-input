@@ -4,4 +4,4 @@
 # group: Math Functions
 # condition: (yas-texmathp)
 # --
-\lim_{$0}
+\lim_{$1}$0

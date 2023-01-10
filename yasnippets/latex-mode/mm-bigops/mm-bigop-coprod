@@ -4,4 +4,4 @@
 # group: Math Big Operators
 # condition: (yas-texmathp)
 # --
-\coprod_{$0}
+\coprod_{$1}$0
