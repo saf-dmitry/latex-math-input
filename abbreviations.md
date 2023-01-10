@@ -240,9 +240,6 @@ Stretchable braces and other delimiters:
 | `mho`    | `\mho`        | $\mho$        |
 | `hbar`   | `\hbar`       | $\hbar$       |
 | `aleph`  | `\aleph`      | $\aleph$      |
-| `beth`   | `\beth`       | $\beth$       |
-| `gimel`  | `\gimel`      | $\gimel$      |
-| `daleth` | `\daleth`     | $\daleth$     |
 | `oo`     | `\infty`      | $\infty$      |
 | `+-`     | `\pm`         | $\pm$         |
 | `-+`     | `\mp`         | $\mp$         |
