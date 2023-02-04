@@ -45,7 +45,7 @@ The following general rules hold in order to enter LaTeX math commands and envir
 
 ## Implementation
 
-The set of abbreviations is implemented using [YASnippet][yasnippet-github] template system for GNU Emacs. YASnippet allows you to type an abbreviation and automatically expand it into function templates. For information about installation of YASnippet and its snippets, i.e. templates, please consult corresponding [GitHub page][yasnippet-doc] and [repository][yasnippet-github]. Following are some notes on installation and setup specific to snippets provided here.
+The set of abbreviations is implemented using [YASnippet][yasnippet-github] template system for GNU Emacs. YASnippet allows you to type an abbreviation and automatically expand it into function templates. For information about installation of YASnippet and its snippets, i.e., templates, please consult corresponding [GitHub page][yasnippet-doc] and [repository][yasnippet-github]. Following are some notes on installation and setup specific to snippets provided here.
 
 ## Installation
 
