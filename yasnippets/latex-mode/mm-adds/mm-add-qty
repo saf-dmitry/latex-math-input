@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
-# name: SI
-# key: SI
+# name: qty
+# key: qty
 # group: Math Additions
 # condition: (yas-texmathp)
 # --
-\SI{$1}{$0}
+\qty{$1}{$0}

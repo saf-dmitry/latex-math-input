@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
-# name: si
-# key: si
+# name: qtyrange
+# key: qrange
 # group: Math Additions
 # condition: (yas-texmathp)
 # --
-\si{$0}
+\qtyrange{$1}{$2}{$0}

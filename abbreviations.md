@@ -364,18 +364,18 @@ Stretchable braces and other delimiters:
 
 ## Miscellaneous Additions
 
-| Abbrev.  | LaTeX markup     | Package |
-|----------|------------------|---------|
-| `dd`     | `\dd`            | physics |
-| `erf`    | `\erf`           | physics |
-| `uu`     | `\micro`         | gensym  |
-| `ohm`    | `\ohm`           | gensym  |
-| `dm`     | `\diameter`      | wasysym |
-| `ce`     | `\ce{}`          | mhchem  |
-| `ang`    | `\ang{}`         | siunitx |
-| `num`    | `\num{}`         | siunitx |
-| `si`     | `\si{}`          | siunitx |
-| `SI`     | `\SI{}{}`        | siunitx |
-| `nrange` | `\numrange{}{}`  | siunitx |
-| `srange` | `\SIrange{}{}{}` | siunitx |
+| Abbrev.  | LaTeX markup      | Package |
+|----------|-------------------|---------|
+| `dd`     | `\dd`             | physics |
+| `erf`    | `\erf`            | physics |
+| `uu`     | `\micro`          | gensym  |
+| `ohm`    | `\ohm`            | gensym  |
+| `dm`     | `\diameter`       | wasysym |
+| `ce`     | `\ce{}`           | mhchem  |
+| `ang`    | `\ang{}`          | siunitx |
+| `num`    | `\num{}`          | siunitx |
+| `unit`   | `\unit{}`         | siunitx |
+| `qty`    | `\qty{}{}`        | siunitx |
+| `nrange` | `\numrange{}{}`   | siunitx |
+| `qrange` | `\qtyrange{}{}{}` | siunitx |
 
