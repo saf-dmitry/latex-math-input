@@ -63,7 +63,7 @@ The set of abbreviations is implemented using [YASnippet][yasnippet-github] temp
 
 The snippets provided here are defined for the LaTeX major mode. If you want to use them in other modes, like Markdown mode or Org mode, you need to add `latex-mode` to the mode list of the corresponding `.yas-parents` file as described in the [YASnippets documentation][yasnippet-doc-org].
 
-Most snippets, except for math environment delimiters like the `equation` environment, have the `condition` field set to `(yas-texmathp)`. The latter is intended to control expansion depending on the local context and can be defined as
+Most snippets, except for math environments that are supposed to be used to initiate math mode, have the `condition` field set to `(yas-texmathp)`. The latter is intended to control expansion depending on the local context and can be defined as
 
 ```elisp
 (defun yas-texmathp () (require 'texmathp) (texmathp))
