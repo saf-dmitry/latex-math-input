@@ -369,7 +369,7 @@ Stretchable braces and other delimiters:
 |----------|-------------------|---------|
 | `dd`     | `\dd`             | physics |
 | `erf`    | `\erf`            | physics |
-| `uu`     | `\micro`          | gensymb |
+| `mi`     | `\micro`          | gensymb |
 | `ohm`    | `\ohm`            | gensymb |
 | `dm`     | `\diameter`       | wasysym |
 | `ce`     | `\ce{}`           | mhchem  |

@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: micro
-# key: uu
+# key: mi
 # group: Math Additions
 # condition: (yas-texmathp)
 # --
