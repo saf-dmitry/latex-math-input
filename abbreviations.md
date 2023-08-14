@@ -90,8 +90,8 @@
 |---------|--------------|---------------------------|
 | `sqr`   | `\sqrt{}`    | $\sqrt{\square}$          |
 | `rt2`   | `\sqrt{}`    | $\sqrt{\square}$          |
-| `cbr`   | `\cbrt{}`    | $\cbrt{\square}$          |
-| `rt3`   | `\cbrt{}`    | $\cbrt{\square}$          |
+| `cbr`   | `\sqrt[3]{}` | $\sqrt[3]{\square}$       |
+| `rt3`   | `\sqrt[3]{}` | $\sqrt[3]{\square}$       |
 | `root`  | `\sqrt[]{}`  | $\sqrt[\square]{\square}$ |
 
 ## Relations

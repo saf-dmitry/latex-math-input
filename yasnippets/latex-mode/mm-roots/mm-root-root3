@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
-# name: cbrt alt
-# key: rt3
+# name: root3
+# key: cbr
 # group: Math Roots
 # condition: (yas-texmathp)
 # --
-\cbrt{$0}
+\sqrt[3]{$0}
