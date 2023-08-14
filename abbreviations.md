@@ -225,43 +225,43 @@ Stretchable braces and other delimiters:
 
 ## Symbols and Punctuations
 
-| Abbrev.  | LaTeX markup  | Renders as    |
-|----------|---------------|---------------|
-| `pd`     | `\partial`    | $\partial$    |
-| `inc`    | `\Delta`      | $\Delta$      |
-| `del`    | `\nabla`      | $\nabla$      |
-| `nab`    | `\nabla`      | $\nabla$      |
-| `ii`     | `\imath`      | $\imath$      |
-| `jj`     | `\jmath`      | $\jmath$      |
-| `Re`     | `\Re`         | $\Re$         |
-| `Im`     | `\Im`         | $\Im$         |
-| `wp`     | `\wp`         | $\wp$         |
-| `eth`    | `\eth`        | $\eth$        |
-| `ell`    | `\ell`        | $\ell$        |
-| `mho`    | `\mho`        | $\mho$        |
-| `hbar`   | `\hbar`       | $\hbar$       |
-| `aleph`  | `\aleph`      | $\aleph$      |
-| `oo`     | `\infty`      | $\infty$      |
-| `+-`     | `\pm`         | $\pm$         |
-| `-+`     | `\mp`         | $\mp$         |
-| `...`    | `\dots`       | $\dots$       |
-| `=>`     | `\implies`    | $\implies$    |
-| `imp`    | `\implies`    | $\implies$    |
-| `<=>`    | `\iff`        | $\iff$        |
-| `iff`    | `\iff`        | $\iff$        |
-| `AA`     | `\forall`     | $\forall$     |
-| `EE`     | `\exists`     | $\exists$     |
-| `!EE`    | `\nexists`    | $\nexists$    |
-| `0/`     | `\emptyset`   | $\emptyset$   |
-| `o/`     | `\varnothing` | $\varnothing$ |
-| `&&`     | `\And`        | $\And$        |
-| `neg`    | `\neg`        | $\neg$        |
-| `lnot`   | `\lnot`       | $\lnot$       |
-| `top`    | `\top`        | $\top$        |
-| `bot`    | `\bot`        | $\bot$        |
-| `cdots`  | `\cdots`      | $\cdots$      |
-| `vdots`  | `\vdots`      | $\vdots$      |
-| `ddots`  | `\ddots`      | $\ddots$      |
+| Abbrev. | LaTeX markup  | Renders as    |
+|---------|---------------|---------------|
+| `pd`    | `\partial`    | $\partial$    |
+| `inc`   | `\Delta`      | $\Delta$      |
+| `del`   | `\nabla`      | $\nabla$      |
+| `nab`   | `\nabla`      | $\nabla$      |
+| `ii`    | `\imath`      | $\imath$      |
+| `jj`    | `\jmath`      | $\jmath$      |
+| `Re`    | `\Re`         | $\Re$         |
+| `Im`    | `\Im`         | $\Im$         |
+| `wp`    | `\wp`         | $\wp$         |
+| `eth`   | `\eth`        | $\eth$        |
+| `ell`   | `\ell`        | $\ell$        |
+| `mho`   | `\mho`        | $\mho$        |
+| `hbar`  | `\hbar`       | $\hbar$       |
+| `al`    | `\aleph`      | $\aleph$      |
+| `oo`    | `\infty`      | $\infty$      |
+| `+-`    | `\pm`         | $\pm$         |
+| `-+`    | `\mp`         | $\mp$         |
+| `...`   | `\dots`       | $\dots$       |
+| `=>`    | `\implies`    | $\implies$    |
+| `imp`   | `\implies`    | $\implies$    |
+| `<=>`   | `\iff`        | $\iff$        |
+| `iff`   | `\iff`        | $\iff$        |
+| `AA`    | `\forall`     | $\forall$     |
+| `EE`    | `\exists`     | $\exists$     |
+| `!EE`   | `\nexists`    | $\nexists$    |
+| `0/`    | `\emptyset`   | $\emptyset$   |
+| `o/`    | `\varnothing` | $\varnothing$ |
+| `&&`    | `\And`        | $\And$        |
+| `neg`   | `\neg`        | $\neg$        |
+| `lnot`  | `\lnot`       | $\lnot$       |
+| `top`   | `\top`        | $\top$        |
+| `bot`   | `\bot`        | $\bot$        |
+| `cdots` | `\cdots`      | $\cdots$      |
+| `vdots` | `\vdots`      | $\vdots$      |
+| `ddots` | `\ddots`      | $\ddots$      |
 
 ## Operator and Function Names
 

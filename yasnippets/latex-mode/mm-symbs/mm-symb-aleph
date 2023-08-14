@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: aleph
-# key: aleph
+# key: al
 # group: Math Symbols
 # condition: (yas-texmathp)
 # --
