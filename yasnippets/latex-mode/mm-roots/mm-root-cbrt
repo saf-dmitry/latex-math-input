@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cbrt
+# key: cbr
+# group: Math Roots
+# condition: (yas-texmathp)
+# --
+\cbrt{$0}
