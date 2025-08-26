@@ -13,7 +13,7 @@ An [overview][abbr-md] of the defined abbreviations is available in Markdown for
 
 **Note:** This is still pretty much work-in-progress and I expect some abbreviations will change in the future.
 
-## General Principles
+## General Conventions
 
 The following general rules hold in order to enter LaTeX math commands and environments:
 
