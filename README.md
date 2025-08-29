@@ -23,7 +23,7 @@ The following general rules hold in order to enter LaTeX math commands and envir
 
 - Putting accents on mathematical characters uses key combinations with the quote character `'` as a prefix: For instance, `'~` yields `\tilde{}`.
 
-- The prefix `!` is used for negation: For instance, `!=` yields `\neq`.
+- The `!` prefix is used for negation: For instance, `!=` yields `\neq`.
 
 - Environment templates can be entered using the `:` prefix: For instance, `:eqn` expands to
 
