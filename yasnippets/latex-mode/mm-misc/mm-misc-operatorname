@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: operatorname
+# key: op
+# group: Math Miscellaneous
+# condition: (yas-texmathp)
+# --
+\operatorname{$0}

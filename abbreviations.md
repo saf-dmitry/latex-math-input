@@ -357,11 +357,12 @@ Stretchable braces and other delimiters:
 
 ## Miscellaneous Commands
 
-| Abbrev. | LaTeX markup   |
-|---------|----------------|
-| `tag`   | `\tag{}`       |
-| `txt`   | `\text{}`      |
-| `itxt`  | `\intertext{}` |
+| Abbrev. | LaTeX markup      |
+|---------|-------------------|
+| `tag`   | `\tag{}`          |
+| `txt`   | `\text{}`         |
+| `itxt`  | `\intertext{}`    |
+| `op`    | `\operatorname{}` |
 
 ## Miscellaneous Additions
 
